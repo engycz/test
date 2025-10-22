@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Hlavní stránka
 
 Odkaz na [úvod](intro/README.md#chapter-1)
